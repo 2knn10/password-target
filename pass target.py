@@ -148,6 +148,11 @@ print("_2008"+uuser)
 
 print("_2009"+uuser)
 print("_2010"+uuser)  
+print(""+inss+barth)
+
+print(""+inss+barth+o)
+print(""+inss+barth)
+print(""+w)
 
 print("123456789")    
 print("12345678")
@@ -174,15 +179,6 @@ print("98765321")
 print("98765421")
 
 print("98765431")
-print(""+w)
 print('|=================================================| ')
-
-
-
-
-
-
-
-
 
 
