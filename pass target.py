@@ -1,6 +1,5 @@
 import random
 style = '''\033[31m
-
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠙⠻⢶⣄⡀⠀⠀⠀⢀⣤⠶⠛⠛⡇⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣇⠀⠀⣙⣿⣦⣤⣴⣿⣁⠀⠀⣸⠇⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣡⣾⣿⣿⣿⣿⣿⣿⣿⣷⣌⠋⠀⠀⠀⠀
@@ -148,6 +147,40 @@ print("_2008"+uuser)
 
 print("_2009"+uuser)
 print("_2010"+uuser)  
+print("_2011"+uuser) 
+
+print("2000"+llist)
+print("2001"+llist)
+print("2002"+llist)
+
+print("2003"+llist)
+print("2004"+llist)
+print("2005"+llist)
+
+print("2006"+llist)
+print("2007"+llist)
+print("2008"+llist)
+
+print("2009"+llist)
+print("2010"+llist)
+print("2011"+llist)
+
+print("_2000"+llist)
+print("_2001"+llist)
+print("_2002"+llist)
+
+print("_2003"+llist)
+print("_2004"+llist)
+print("_2005"+llist)
+
+print("_2006"+llist)
+print("_2007"+llist)
+print("_2008"+llist)
+
+print("_2009"+llist)
+print("_2010"+llist)
+print("_2011"+llist)
+
 print(""+inss+barth)
 
 print(""+inss+barth+o)
@@ -180,5 +213,3 @@ print("98765421")
 
 print("98765431")
 print('|=================================================| ')
-
-
